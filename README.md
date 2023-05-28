@@ -4,10 +4,11 @@
 <br/>
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Mozcy&bg_color=f8f8ff&line=4d80e6&point=4d80e6&radius=10) 
+### ![jake-40](images/jake-40.png) Mozcy's Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api?username=Mozcy&show_icons=true&bg_color=f8f8ff&border_radius=10)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozcy&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Mozcy&bg_color=f8f8ff&line=4d80e6&point=4d80e6&radius=100&hide_title=true) 
 
+![](https://github-readme-stats.vercel.app/api?username=Mozcy&show_icons=true&bg_color=f8f8ff&border_radius=10)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozcy&layout=donut&&bg_color=f8f8ff&border_radius=10)
 
 
 
