@@ -2,3 +2,10 @@
 
 ## ![jake-40](images/jake-40.png) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E9%94%99%E8%AF%AF%E7%9A%84&width=330&height=30&lines=Hi%EF%BC%81I'm+Mozcy+Nice+to+visit.)]()
 
+| [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozcy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+
+
+
+
