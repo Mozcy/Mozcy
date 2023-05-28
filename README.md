@@ -4,5 +4,5 @@
 
 ###
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Mozcy&bg_color=f8f8ff&line=4d80e6&point=4d80e6&radius=100) 
-<img src="images/giphy.gif" alt="drawing" width="430"/>![](https://github-readme-stats.vercel.app/api?username=Mozcy&show_icons=true&bg_color=f8f8ff&border_radius=10)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozcy&layout=compact&&bg_color=f8f8ff&border_radius=10&&card_width=466&langs_count=9)
+<img src="images/giphy.gif" alt="drawing" width="330"/>![](https://github-readme-stats.vercel.app/api?username=Mozcy&show_icons=true&bg_color=f8f8ff&border_radius=10)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozcy&layout=compact&&bg_color=f8f8ff&border_radius=10&&card_width=466&langs_count=9)
 
